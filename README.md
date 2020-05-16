@@ -39,4 +39,4 @@ Set up tests that will...
  X - Get the password input and type a password in it [SUBSTITUTED TEST OF TEXTAREA BOX]
  X - Set up a test that will check to see if a user can check the terms of service box
  X Check to see if a user can submit the form data
- Check for form validation if an input is left empty
+ X - Check for form validation if an input is left empty
